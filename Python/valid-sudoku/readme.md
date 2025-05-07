@@ -1,1 +1,1 @@
-Code Link : [text](https://leetcode.com/problems/valid-sudoku/description/)
+Code Link : https://leetcode.com/problems/valid-sudoku/description/
