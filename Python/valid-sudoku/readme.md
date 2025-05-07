@@ -1,1 +1,1 @@
-Code Link : https://leetcode.com/problems/valid-sudoku/description/
+Problem : https://leetcode.com/problems/valid-sudoku/description/
